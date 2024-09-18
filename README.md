@@ -1,29 +1,51 @@
-<h1 align="center">Hi 👋, I'm Saud Ur Rehman</h1>
-<h3 align="center">A passionate Full Stack Developer (FSD King Saud) from Pakistan...</h3>
+# 🌟 Welcome to Saud Ur Rehman’s GitHub Profile! 🌟
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fsdkingsaud&label=Profile%20views&color=0e75b6&style=flat" alt="fsdkingsaud" /> </p>
+## 👋 Hi there! I’m Saud Ur Rehman (FSDKingSaud) 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fsdkingsaud" alt="fsdkingsaud" /></a> </p>
+I’m a passionate **FSD - Full Stack Web Developer King** with expertise in a wide array of web technologies. My journey in the world of coding has been both exciting and enriching, and I’m thrilled to share it with you here!
 
-- 🔭 I’m currently working on **Noun Loaded, NounTma, Petragems and Dowhf**
+---
 
-- 🌱 I’m currently learning **React JS**
+## 🛠️ Technologies & Skills
 
-- 👯 I’m looking to collaborate on **Full Stack Development**
+I specialize in the following technologies:
 
-- 💬 Ask me about **HTML, CSS, JS, BootStrap, PHP, MySQL, Laravel, Livewire, React JS**
+- **HTML**: Crafting the backbone of the web.
+- **CSS**: Styling with precision and creativity.
+- **Bootstrap**: Building responsive and modern websites effortlessly.
+- **JavaScript**: Bringing interactivity and dynamism to web applications.
+- **PHP**: Developing robust server-side solutions.
+- **MySQL**: Managing and querying databases efficiently.
+- **Laravel**: Creating elegant and powerful web applications.
+- **Livewire**: Building dynamic interfaces seamlessly with Laravel.
+- **React**: Building interactive UIs with a component-based approach.
+- **Next.js**: Creating fast, SEO-friendly React applications.
 
-- 📫 How to reach me **fsdkingsaud09@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🎓 My Educational Journey
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+My educational journey has been both challenging and rewarding:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fsdkingsaud&show_icons=true&locale=en&layout=compact" alt="fsdkingsaud" /></p>
+- **Primary Education**: I completed my primary education at Millat Public High School, Donga Makoori.
+- **Early Adventures**: At the age of 15, I traveled to Peshawar to prepare for entry tests for two cadet colleges. Although I didn't pass, the experience was invaluable.
+- **Academic Excellence**: I moved to Lahore, Punjab, Pakistan in early 2022 and enrolled in The Punjab School. Through hard work and dedication, I achieved an impressive 92.83% in my annual exams and completed my matriculation with distinction.
+- **Current Pursuits**: I am currently pursuing my college education at Punjab College of IT, Johar Town, Lahore.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fsdkingsaud&show_icons=true&locale=en" alt="fsdkingsaud" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fsdkingsaud&" alt="fsdkingsaud" /></p>
+## 🌟 About Me
+
+I’m always eager to learn and grow in the field of web development. My goal is to create impactful, user-centric web applications and contribute to the tech community. Feel free to explore my repositories, check out my projects, and connect with me!
+
+---
+
+## 📫 Get in Touch
+
+- **GitHub**: [FSDKingSaud](https://github.com/FSDKingSaud)
+- **LinkedIn**: [Saud Ur Rehman](https://www.linkedin.com/in/saud-ur-rehman)
+- **Twitter**: [@FSDKingSaud](https://twitter.com/FSDKingSaud)
+
+---
+
+Thank you for visiting my profile! 😊
