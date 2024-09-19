@@ -4,7 +4,7 @@
 
 I’m a passionate **FSD - Full Stack Web Developer King** with expertise in a wide array of web technologies. My journey in the world of coding has been both exciting and enriching, and I’m thrilled to share it with you here!
 
-<img src="https://raw.githubusercontent.com/FSDKingSaud/FSDKingSaud/refs/heads/main/fsd%20log.jpg" height="500" width="1000"/>
+<img src="https://raw.githubusercontent.com/FSDKingSaud/FSDKingSaud/refs/heads/main/fsd%20log.jpg" width="1000"/>
 
 ---
 
@@ -51,3 +51,4 @@ I’m always eager to learn and grow in the field of web development. My goal is
 ---
 
 Thank you for visiting my profile! 😊
+
