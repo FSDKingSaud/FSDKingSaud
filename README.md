@@ -2,7 +2,9 @@
 
 ## 👋 Hi there! I’m Saud Ur Rehman (FSDKingSaud) 👋
 
-I’m a passionate **FSD - Full Stack Web Developer King** with expertise in a wide array of web technologies. My journey in the world of coding has been both exciting and enriching, and I’m thrilled to share it with you here!---
+I’m a passionate **FSD - Full Stack Web Developer King** with expertise in a wide array of web technologies. My journey in the world of coding has been both exciting and enriching, and I’m thrilled to share it with you here!
+
+---
 
 ## 🛠️ Technologies & Skills
 
