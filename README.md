@@ -1,5 +1,10 @@
 # 💫 About Me:
-I’m currently working on projects that use my skills in both front-end and back-end development
+Hi there! I'm FSDKingSaud (Saud Ur Rehman) 👋
+I fell in love with coding back in 2022 when I started learning HTML5 in 8th grade. Since then, I've honed my skills in both frontend and backend technologies, becoming a passionate Full Stack Developer (FSD).
+
+I primarily work with Laravel for backend development and Next.js for building dynamic frontends. Over the years, I've contributed to several projects that have allowed me to expand my expertise and push my limits.
+
+Feel free to check out my work and connect with me!
 
 
 ## 🌐 Socials:
